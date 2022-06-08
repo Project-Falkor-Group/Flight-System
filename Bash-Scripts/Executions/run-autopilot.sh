@@ -1,2 +1,2 @@
 cd ../Flight-Test-Scripts
-python2 FlightTestSimulation.py
+python3 takeoff_and_land.py
