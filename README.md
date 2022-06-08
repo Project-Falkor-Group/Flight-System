@@ -6,8 +6,8 @@ git clone git@github.com:Dog-Drone/Flight-System.git --recursive
 
 ## Builds
 
-enter 
 ```bash
+//enter the directory
 cd Bash-Scripts/Builds/
 ```
 
