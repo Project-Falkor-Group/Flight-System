@@ -1,4 +1,4 @@
-# Flight-System
+# Flight-System Setup
 ## Cloning the Repo  
 ```bash
 git clone git@github.com:Dog-Drone/Flight-System.git --recursive
