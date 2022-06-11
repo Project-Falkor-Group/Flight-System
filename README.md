@@ -27,12 +27,12 @@ cd Bash-Scripts/Builds/
 
 ### Build PX4  
 ```bash
-./build-PX4.sh
+bash build-PX4.sh
 ```
 
 ### Build MAVSDK  
 ```bash
-./build-MAVSDK.sh
+bash build-MAVSDK.sh
 ```
 
 ## :three: Simulations
@@ -44,13 +44,13 @@ cd Bash-Scripts/Executions/
 ### JMAVsim
 Run the script
 ```bash
-./run-jmav-sim.sh
+bash run-jmav-sim.sh
 ```
 
 ### Gazebo
 Run the script
 ```bash
-./run-gazebo.sh
+bash run-gazebo.sh
 ```
 ### Using a Controller with Simulation
 The simplest way to configure a joystick or controller is through an applicaiton called [QGroundControl](https://docs.qgroundcontrol.com/master/en/getting_started/download_and_install.html)  
